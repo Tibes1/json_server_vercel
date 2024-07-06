@@ -1,0 +1,320 @@
+{
+  "languages": [
+    {
+      "id": 1,
+      "lang": "en-US",
+      "content": {
+        "introduction": {
+          "title": "Hi, I am ",
+          "content": "A Web focused developer looking forward to an opportunity on a software development career"
+        },
+        "header": {
+          "home": "Home",
+          "about": "About",
+          "projects": "Projects",
+          "contact": "Contact",
+          "portfolio": "portfolio"
+        },
+        "about": {
+          "title": "About Me",
+          "resume": "Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology",
+          "call": "Get to know me!",
+          "content1": "and I'm a Frontend Web Developer located in Porto União, SC-BR. I’ve been studying Information Systems College for 3 years now, and I’m looking forward to an opportunity to work on the software development area.",
+          "content2": "I'm a bit of a digital product junky. Over the years, I've used most of the most popular web and mobile frameworks. Feel free to contact me here.",
+          "skills": "My Skills"
+        },
+        "thisProject": {
+          "title": "This project",
+          "content": "This portfolio is a personal creation, with the premisse of creating a portfolio that can be understood by anyone, so all the text on the page is translated to the prefered language, based on your browser language of choice, showcase below, if the language of choice is alreade on the database, a simple api request will fastly do the job, but the process of creating a new translacion is done by a OpenAi GPT 3.5, after creation this new language pack will be persisted, thats how the site magically translates itself :)."
+        },
+        "projects": {
+          "resume": "Here you will find some of the personal and clients projects that I created with each project containing its own case study",
+          "project": "Project",
+          "caseStudy": "Case Study",
+          "projectDescriptions": {
+            "portfolioDesc": "This portfolio is a personal creation, with the premise of being understood by anyone in any language by automatically translating itself on demand.",
+            "proffyDesc": "The project was created with the mission of paying tribute to educators in Brazil through a platform that connects students and teachers. Developed during the #nextlevelweek02 event hosted by @rocketseat.",
+            "happyDesc": "Happy is an application developed in celebration of Children's Day, aimed at bringing people closer to and connecting them with institutional care homes (orphanages) to make these children's day even more special."
+          }
+        },
+        "contact": {
+          "resume": "Feel free to Contact me by Email: tibes93@hotmail.com or any of my socials, and I will get back to you as soon as possible"
+        },
+        "footer": {
+          "social": "Social"
+        }
+      }
+    },
+    {
+      "id": 1720115254199,
+      "lang": "pt-BR",
+      "content": {
+        "introduction": {
+          "title": "Olá, sou",
+          "content": "Um desenvolvedor focado em web ansioso por uma oportunidade na carreira de desenvolvimento de software"
+        },
+        "header": {
+          "home": "Início",
+          "about": "Sobre",
+          "projects": "Projetos",
+          "contact": "Contato",
+          "portfolio": "portfólio"
+        },
+        "about": {
+          "title": "Sobre Mim",
+          "resume": "Aqui você encontrará mais informações sobre mim, o que eu faço e minhas habilidades atuais, principalmente em termos de programação e tecnologia",
+          "call": "Venha me conhecer!",
+          "content1": "e eu sou um Desenvolvedor Web Frontend localizado em Porto União, SC-BR. Estou cursando Sistemas de Informação há 3 anos e estou ansioso por uma oportunidade de trabalhar na área de desenvolvimento de software.",
+          "content2": "Sou um pouco viciado em produtos digitais. Ao longo dos anos, tenho usado a maioria dos frameworks web e móveis mais populares. Sinta-se à vontade para entrar em contato comigo aqui.",
+          "skills": "Minhas Habilidades"
+        },
+        "thisProject": {
+          "title": "Este projeto",
+          "content": "Este portfólio é uma criação pessoal, com a premissa de criar um portfólio que possa ser compreendido por qualquer pessoa, então todo o texto na página é traduzido para o idioma preferido, com base no idioma de escolha do seu navegador, mostrado abaixo, se o idioma de escolha já estiver no banco de dados, uma simples solicitação à API fará o trabalho rapidamente, mas o processo de criação de uma nova tradução é feito por um OpenAi GPT 3.5, após a criação, este novo pacote de idiomas será persistido, é assim que o site se traduz magicamente :)."
+        },
+        "projects": {
+          "resume": "Aqui você encontrará alguns dos projetos pessoais e de clientes que criei, sendo que cada projeto contém seu próprio estudo de caso",
+          "project": "Projeto",
+          "caseStudy": "Estudo de Caso",
+          "projectDescriptions": {
+            "portfolioDesc": "Este portfólio é uma criação pessoal, com a premissa de ser compreendido por qualquer pessoa em qualquer idioma, traduzindo-se automaticamente sob demanda.",
+            "proffyDesc": "O projeto foi criado com a missão de homenagear educadores no Brasil por meio de uma plataforma que conecta alunos e professores. Desenvolvido durante o evento #nextlevelweek02 hospedado pela @rocketseat.",
+            "happyDesc": "Happy é um aplicativo desenvolvido em comemoração ao Dia das Crianças, com o objetivo de aproximar as pessoas e conectá-las com lares de acolhimento institucional (orfanatos) para tornar o dia dessas crianças ainda mais especial."
+          }
+        },
+        "contact": {
+          "resume": "Sinta-se à vontade para entrar em contato comigo por E-mail: tibes93@hotmail.com ou por qualquer uma das minhas redes sociais, e entrarei em contato com você o mais breve possível"
+        },
+        "footer": {
+          "social": "Redes Sociais"
+        }
+      }
+    },
+    {
+      "id": 1,
+      "lang": "es",
+      "content": {
+        "introduction": {
+          "title": "Hola, soy ",
+          "content": "Un desarrollador centrado en la web con ganas de tener una oportunidad en una carrera de desarrollo de software"
+        },
+        "header": {
+          "home": "Inicio",
+          "about": "Sobre mí",
+          "projects": "Proyectos",
+          "contact": "Contacto",
+          "portfolio": "Portafolio"
+        },
+        "about": {
+          "title": "Sobre mí",
+          "resume": "Aquí encontrarás más información sobre mí, lo que hago y mis habilidades actuales principalmente en términos de programación y tecnología",
+          "call": "¡Conóceme!",
+          "content1": "Soy un desarrollador web Frontend ubicado en Porto União, SC-BR. Llevo 3 años estudiando en la Universidad de Sistemas de Información y estoy buscando una oportunidad para trabajar en el área de desarrollo de software.",
+          "content2": "Soy un aficionado a los productos digitales. A lo largo de los años, he utilizado la mayoría de los frameworks web y móviles más populares. Siéntete libre de contactarme aquí.",
+          "skills": "Mis habilidades"
+        },
+        "thisProject": {
+          "title": "Este proyecto",
+          "content": "Este portafolio es una creación personal, con la premisa de crear un portafolio que pueda ser entendido por cualquiera, por lo que todo el texto en la página se traduce al idioma preferido, basado en el idioma de tu navegador, como se muestra a continuación. Si el idioma elegido ya está en la base de datos, una simple solicitud de API hará rápidamente el trabajo, pero el proceso de crear una nueva traducción lo hace OpenAI GPT 3.5, después de la creación, este nuevo paquete de idioma se persistirá, así es como el sitio se traduce mágicamente :)."
+        },
+        "projects": {
+          "resume": "Aquí encontrarás algunos de los proyectos personales y de clientes que he creado, con cada proyecto que contiene su propio estudio de caso",
+          "project": "Proyecto",
+          "caseStudy": "Estudio de caso",
+          "projectDescriptions": {
+            "portfolioDesc": "Este portafolio es una creación personal, con la premisa de ser entendido por cualquiera en cualquier idioma al traducirse automáticamente a pedido.",
+            "proffyDesc": "El proyecto se creó con la misión de rendir homenaje a los educadores en Brasil a través de una plataforma que conecta a estudiantes y profesores. Desarrollado durante el evento #nextlevelweek02 organizado por @rocketseat.",
+            "happyDesc": "Happy es una aplicación desarrollada en celebración del Día del Niño, con el objetivo de acercar a las personas y conectarlas con hogares de cuidado institucional (orfanatos) para hacer que el día de estos niños sea aún más especial."
+          }
+        },
+        "contact": {
+          "resume": "Siéntete libre de contactarme por correo electrónico: tibes93@hotmail.com o a través de mis redes sociales, y estaré encantado de responderte lo antes posible"
+        },
+        "footer": {
+          "social": "Redes sociales"
+        }
+      }
+    },
+    {
+      "id": 1,
+      "lang": "es-ES",
+      "content": {
+        "introduction": {
+          "title": "Hola, soy ",
+          "content": "Un desarrollador centrado en la web que busca una oportunidad en una carrera de desarrollo de software"
+        },
+        "header": {
+          "home": "Inicio",
+          "about": "Acerca de",
+          "projects": "Proyectos",
+          "contact": "Contacto",
+          "portfolio": "portafolio"
+        },
+        "about": {
+          "title": "Acerca de mí",
+          "resume": "Aquí encontrarás más información sobre mí, lo que hago y mis habilidades actuales principalmente en términos de programación y tecnología",
+          "call": "¡Conóceme!",
+          "content1": "Soy un Desarrollador Web Frontend ubicado en Porto União, SC-BR. Llevo 3 años estudiando la carrera de Sistemas de Información y estoy deseando tener la oportunidad de trabajar en el área de desarrollo de software.",
+          "content2": "Soy un poco adicto a los productos digitales. A lo largo de los años, he utilizado la mayoría de los frameworks web y móviles más populares. No dudes en contactarme aquí.",
+          "skills": "Mis habilidades"
+        },
+        "thisProject": {
+          "title": "Este proyecto",
+          "content": "Este portafolio es una creación personal, con la premisa de crear un portafolio que pueda ser entendido por cualquiera, por lo que todo el texto de la página se traduce al idioma preferido, según la configuración de idioma del navegador que elijas, se muestra a continuación. Si el idioma elegido ya está en la base de datos, una simple solicitud API hará el trabajo rápidamente, pero el proceso de crear una nueva traducción lo realiza un OpenAi GPT 3.5, después de la creación, este nuevo paquete de idioma se persistirá, así es como el sitio se traduce mágicamente por sí mismo :)"
+        },
+        "projects": {
+          "resume": "Aquí encontrarás algunos de los proyectos personales y de clientes que he creado, con cada proyecto que incluye su propio estudio de caso",
+          "project": "Proyecto",
+          "caseStudy": "Estudio de caso",
+          "projectDescriptions": {
+            "portfolioDesc": "Este portafolio es una creación personal, con la premisa de ser entendido por cualquiera en cualquier idioma al traducirse automáticamente según la demanda.",
+            "proffyDesc": "El proyecto fue creado con la misión de rendir homenaje a los educadores en Brasil a través de una plataforma que conecta a estudiantes y profesores. Desarrollado durante el evento #nextlevelweek02 organizado por @rocketseat.",
+            "happyDesc": "Happy es una aplicación desarrollada en celebración del Día del Niño, con el objetivo de acercar a las personas y conectarlas con hogares de cuidado institucional (orfanatos) para hacer que el día de estos niños sea aún más especial."
+          }
+        },
+        "contact": {
+          "resume": "Siéntete libre de contactarme por correo electrónico: tibes93@hotmail.com o cualquiera de mis redes sociales, y me pondré en contacto contigo lo antes posible"
+        },
+        "footer": {
+          "social": "Redes sociales"
+        }
+      }
+    },
+    {
+      "id": 1720129507573,
+      "lang": "hi-IN",
+      "content": {
+        "introduction": {
+          "title": "नमस्कार, मैं हूं ",
+          "content": "एक वेब केंद्रित डेवलपर जो सॉफ़्टवेयर विकास के एक अवसर की प्रतीक्षा कर रहा है"
+        },
+        "header": {
+          "home": "घर",
+          "about": "के बारे में",
+          "projects": "परियोजनाएं",
+          "contact": "संपर्क",
+          "portfolio": "पोर्टफोलियो"
+        },
+        "about": {
+          "title": "मेरे बारे में",
+          "resume": "यहां आपको मुझे, मेरे द्वारा किया जाने वाला काम, और मेरे वर्तमान कौशलों के बारे में अधिक जानकारी प्राप्त होगी",
+          "call": "मुझसे जानें!",
+          "content1": "और मैं पोर्टो यूनियाओं, एससी-बीआर में स्थित एक फ्रंटएंड वेब डेवलपर हूं। मैं 3 साल से सूचना प्रणालियों कॉलेज में अध्ययन कर रहा हूं, और मैं सॉफ़्टवेयर विकास क्षेत्र में काम करने का एक अवसर देख रहा हूं।",
+          "content2": "मैं एक डिजिटल प्रोडक्ट जंकी हूं। वर्षों से, मैंने सबसे अधिक लोकप्रिय वेब और मोबाइल फ़्रेमवर्क का उपयोग किया है। यहां मुझसे संपर्क करने के लिए स्वतंत्र महसूस करें।",
+          "skills": "मेरी कौशल"
+        },
+        "thisProject": {
+          "title": "यह प्रोजेक्ट",
+          "content": "यह पोर्टफोलियो एक व्यक्तिगत सृजन है, जिसका मकसद है कि इसे कोई भी समझ सके, ताकि पृष्ठ पर सभी पाठ जिसकी पसंद भाषा के आधार पर अनुवादित किया जाए, नीचे प्रदर्शित किया गया है, यदि पसंद भाषा पहले से ही डेटाबेस में है, तो एक सरल एपीआई अनुरोध त्वरितरूप से काम करेगा, लेकिन नया अनुवाद बनाने की प्रक्रिया एक ओपनएपिआई जीपीटी 3.5 द्वारा की जाती है, उसके बाद इस नए भाषा पैक को स्थिर कर दिया जाएगा, यह साइट खुद को जादू से अनुवाद कैसे करती है।"
+        },
+        "projects": {
+          "resume": "यहां आपको मेरी व्यक्तिगत और ग्राहक परियोजनाएं मिलेंगी, प्रत्येक परियोजना के साथ अपनी विशेष उदाहरण शामिल हैं",
+          "project": "परियोजना",
+          "content": "लोरेम इप्सम डोलर स्वामित्व की अधिकतम अधिकतम। स्पर्श यहां जो नया उत्पाद जंकी है, आपको यहां संपर्क करने के लिए स्वतंत्र अन्वेषित करने की अनुमति देता है।",
+          "caseStudy": "मामले का अध्ययन",
+          "projectDescriptions": {
+            "portfolioDesc": "यह पोर्टफोलियो एक व्यक्तिगत सृजन है, जिसका मकसद है कि इसे कोई भी भाषा में स्वचालित रूप से समझा जा सके।",
+            "proffyDesc": "इस परियोजना का उद्देश्य ब्राजील में शिक्षकों को समर्पण देने के लिए एक प्लेटफार्म के माध्यम से छात्रों और शिक्षकों को जोड़ना था। इसे @rocketseat द्वारा आयोजित #nextlevelweek02 प्रमाण संग्रह में विकसित किया गया था।",
+            "happyDesc": "खुश एक एप्लिकेशन है जो बच्चों के दिन के उत्सव के रूप में विकसित किया गया है, जिसका उद्देश्य इंस्टीट्यूशनल केयर होम्स (अनाथालय) के लोगों की ओर लाना और उन्हें उन बच्चों के दिन को और भी विशेष बनाने के लिए जोड़ना है।"
+          }
+        },
+        "contact": {
+          "resume": "मुझसे ईमेल: tibes93@hotmail.com या मेरे सोशल मीडिया पर संपर्क करने की आपको आज़ादी है, और मैं जल्द से जल्द आपको वापस संपर्क करुंगा।"
+        },
+        "footer": {
+          "social": "सामाजिक"
+        }
+      }
+    },
+    {
+      "id": 1720130252716,
+      "lang": "zh-CN",
+      "content": {
+        "introduction": {
+          "title": "嗨，我是",
+          "content": "一个专注于网络的开发者，期待软件开发事业的机会"
+        },
+        "header": {
+          "home": "首页",
+          "about": "关于",
+          "projects": "项目",
+          "contact": "联系",
+          "portfolio": "作品集"
+        },
+        "about": {
+          "title": "关于我",
+          "resume": "您将在这里找到关于我的更多信息，我做了什么以及我当前主要在编程和技术方面的技能",
+          "call": "了解我！",
+          "content1": "我是一名位于巴西南部的波图乌乌尼昂的前端网页开发人员。 我已经在读信息系统专业三年了，我希望有机会在软件开发领域工作。",
+          "content2": "我是一个数字产品迷。 这些年来，我使用过大多数流行的网络和移动框架。 随时在这里联系我。",
+          "skills": "我的技能"
+        },
+        "thisProject": {
+          "title": "这个项目",
+          "content": "这个作品集是我个人创作的，旨在创建一个可以为任何人理解的作品集，因此页面上的所有文本都根据您首选的语言进行翻译，在您浏览器常用的语言包存在时，简单的api请求将很快完成任务，但是创建新的翻译的过程是由OpenAi GPT 3.5完成的，创建后，这个新的语言包将会被持久化，这就是网站如何神奇地自动翻译自己的方法：)"
+        },
+        "projects": {
+          "resume": "在这里您将找到我创建的一些个人和客户项目，每个项目都包含其自己的案例研究",
+          "project": "项目",
+          "caseStudy": "案例研究",
+          "projectDescriptions": {
+            "portfolioDesc": "这个作品集是我个人创作的，旨在可以通过按需自动翻译理解任何语言。",
+            "proffyDesc": "该项目的目标是通过连接学生和教师的平台来向巴西的教育工作者致敬。 是在@rocketseat主办的#nextlevelweek02活动期间开发的项目。",
+            "happyDesc": "Happy是为庆祝儿童节而开发的应用程序，旨在使人们更加接近并与收养机构进行联系，以使这些儿童的节日更加特别。"
+          }
+        },
+        "contact": {
+          "resume": "随时通过电子邮件tibes93@hotmail.com或任何我的社交账号与我联系，我会尽快回复您"
+        },
+        "footer": {
+          "social": "社交"
+        }
+      }
+    },
+    {
+      "id": 1720131114823,
+      "lang": "ar-SA",
+      "content": {
+        "introduction": {
+          "title": "مرحبًا، أنا",
+          "content": "مطور متخصص في تطوير الويب يتطلع لفرصة في مجال تطوير البرمجيات"
+        },
+        "header": {
+          "home": "الرئيسية",
+          "about": "عني",
+          "projects": "مشاريع",
+          "contact": "اتصل",
+          "portfolio": "المعرض"
+        },
+        "about": {
+          "title": "عني",
+          "resume": "هنا ستجد مزيدًا من المعلومات حولي، ما أقوم به، ومهاراتي الحالية بشكل رئيسي في مجال البرمجة والتكنولوجيا",
+          "call": "تعرف علي!",
+          "content1": "أنا مطور واجهة ويب متواجد في بورتو أونيا، س س- BR. لقد درست كلية نظم المعلومات لمدة 3 سنوات الآن، وأتطلع إلى فرصة للعمل في مجال تطوير البرمجيات.",
+          "content2": "أنا قليلاً من مدمني المنتجات الرقمية. على مر السنين، استخدمت معظم الأطر الشهيرة على الويب والهواتف المحمولة. لا تتردد في الاتصال بي هنا.",
+          "skills": "مهاراتي"
+        },
+        "thisProject": {
+          "title": "هذا المشروع",
+          "content": "هذا المعرض الشخصي هو إبداع شخصي، بفكرة إنشاء معرض يمكن فهمه من قبل أي شخص، لذلك يتم ترجمة جميع النصوص على الصفحة إلى اللغة المفضلة، استنادًا إلى لغة متصفحك المفضلة مما يسمح بذلك، إذا كانت اللغة المفضلة موجودة بالفعل في قاعدة البيانات، سيؤدي طلب واجهة برمجة تطبيقات بسيطة إلى قيام العمل بسرعة بمهامه، ولكن عملية إنشاء ترجمة جديدة تتم عبر OpenAi GPT 3.5، بعد إنشاء حزمة اللغة الجديدة سيتم الاحتفاظ بها، وهكذا يترجم الموقع نفسه بشكل سحري :)."
+        },
+        "projects": {
+          "resume": "هنا ستجد بعض المشاريع الشخصية والعملاء التي قمت بإنشائها مع كل مشروع يحتوي على دراسة حالة خاصة به",
+          "project": "المشروع",
+          "caseStudy": "دراسة الحالة",
+          "projectDescriptions": {
+            "portfolioDesc": "هذا المعرض الشخصي هو إبداع شخصي، بفكرة أن يتم فهمه بواسطة أي شخص بأي لغة من خلال ترجمته تلقائيا عند الطلب.",
+            "proffyDesc": "تم إنشاء المشروع برسالة من أجل تقديم التحية للمدرسين في البرازيل من خلال منصة تربط الطلاب والمدرسين. تم تطويره خلال فعالية #nextlevelweek02 المقدمة من @rocketseat.",
+            "happyDesc": "Happy هو تطبيق تم تطويره بمناسبة يوم الأطفال، بهدف تقريب الناس وربطهم بدور الرعاية المؤسسية (الجمعيات الخيرية) لجعل يوم هؤلاء الأطفال أكثر سعادة."
+          }
+        },
+        "contact": {
+          "resume": "لا تتردد في الاتصال بي عبر البريد الإلكتروني: tibes93@hotmail.com أو أي من مواقع التواصل الاجتماعي الخاصة بي، وسأعود إليك في أقرب وقت ممكن"
+        },
+        "footer": {
+          "social": "وسائل التواصل الاجتماعي"
+        }
+      }
+    }
+  ]
+}
